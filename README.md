@@ -16,7 +16,7 @@
 
 **Sub-10µs matching latency · 100,000 orders/sec · 10,000 simulated traders · PPO RL agent · Real-time surveillance**
 
-*Built to impress engineers at JPMorgan, Goldman Sachs, Citadel, and Morgan Stanley.*
+
 
 </div>
 
